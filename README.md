@@ -8,4 +8,4 @@ This college project selects some products from a list using a genetic algorithm
 **Class**
 * TT050A - Decision Support Systems
 
-*October 2022*
+*November 2022*
